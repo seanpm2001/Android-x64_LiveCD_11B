@@ -1,1 +1,1 @@
-🤖️ Android x64: The source repository for the LiveCD build of Android 11.1. Try out 4 different editions of Android-x64+11.1 (R) before installing it 
+🤖️ Android x64: The source repository of the special Android x64 LiveCD for all versions of Android x64 from 11.1 to 11.1
